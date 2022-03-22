@@ -102,7 +102,7 @@ $ egg-bin debug --debug-port=9229 --proxy=9999
 
 ### test
 
-Using [mocha] with [co-mocha] to run test.
+Using [mocha] to run test.
 
 [power-assert] is the default `assert` library, and [intelli-espower-loader] will be auto required.
 
@@ -294,7 +294,6 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 <!-- GITCONTRIBUTOR_END -->
 
 [mocha]: https://mochajs.org
-[co-mocha]: https://npmjs.com/co-mocha
 [glob]: https://github.com/isaacs/node-glob
 [istanbul]: https://github.com/gotwarlost/istanbul
 [nsp]: https://npmjs.com/nsp
